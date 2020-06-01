@@ -1,6 +1,6 @@
 # DeepMind x UCL - Deep Learning Lectures #
 
-<img src="https://github.com/HandeTarcan/DeepMind-x-UCL---Deep-Learning-Lectures-/blob/master/DeepMind.png" width="300" height="150">  <img src="https://github.com/HandeTarcan/DeepMind-x-UCL---Deep-Learning-Lectures-/blob/master/UCL.png" width="200" height="150">
+<img src="/Logos/DeepMind.png">  <img src="/Logos/UCL.png" width="200" height="150">
 
 This repository includes my notes of the Deep Learning Lectures of DeepMind and UCL. 
 
@@ -16,8 +16,8 @@ There are 12 videos focused on deep learning as the name suggests. There is a se
 
 Shoot me an e-mail. 
 
-If you like the notes, let me know. I may consider creating a nice pdf documentation with more visualization.
+If you like the notes, let me know. I may consider creating a nice pdf with more visualization.
 
 Stay safe and healthy. 
 
-:fist_raised::mask:
+:fist_raised: :mask:

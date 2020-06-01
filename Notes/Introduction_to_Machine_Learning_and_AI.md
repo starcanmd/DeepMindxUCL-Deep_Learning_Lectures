@@ -26,7 +26,7 @@ Shane Legg's definition of intelligence:
 
 Intelligence measures an agent's ability to achieve goals in a wide range of environments. His formal theory is:
 
-<img src="/Images/Intro_1.png" width=500 height=300>
+<img src="/Images/Intro_1.png" width=800 height=500>
 
 Measure of intelligence is a function of pi -a policy-. 
 

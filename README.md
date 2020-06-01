@@ -30,3 +30,5 @@ If you like the notes, let me know. I may consider creating a nice pdf with more
 Stay safe and healthy. 
 
 :fist_raised: :mask:
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Brain_Food_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif/1200px-Brain_Food_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif' width='300' height='300'>

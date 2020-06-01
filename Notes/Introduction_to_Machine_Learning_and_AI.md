@@ -2,7 +2,7 @@
 
 **Instructor:** Professor Thore Graepel, DeepMind Research Scientist and UCL Chair of Machine Learning
 
-Total Length: 1 hr 25 min 18 ms
+**Total Length:** 1 hr 25 min 18 ms
 
 Plan of the Lecture:
 

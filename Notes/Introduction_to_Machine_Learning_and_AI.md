@@ -36,9 +36,9 @@ This measure of intelligence is expressed as sum over all computable environment
 
 Check algorithmic information theory.
 
-Indication of success = Value achieved (the value that policy pi creates in environment mu)
+* Indication of success: * Value achieved (the value that policy pi creates in environment mu)
 
-Complexity penalty: A weighting term. K of mu is the Kolmogorov complexity of the environment mu. If the complexity is low, this term will be great. Therefore, it gives more weight to simpler environments and progressively less weight to more complex ones. Since there are more complex environments than simple ones, it also acts as a normalization.
+* Complexity penalty: * A weighting term. K of mu is the Kolmogorov complexity of the environment mu. If the complexity is low, this term will be great. Therefore, it gives more weight to simpler environments and progressively less weight to more complex ones. Since there are more complex environments than simple ones, it also acts as a normalization.
 
 Policy and value comes from * Reinforcement Learning *
 

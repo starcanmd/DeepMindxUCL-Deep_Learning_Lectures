@@ -13,3 +13,11 @@ If you like the notes, let me know. I may consider creating a nice pdf documenta
 Stay safe and healthy. 
 
 :fist_raised::mask:
+
+**To Do:**
+
+* Turkish Translation (Any help will be appreciated.)
+
+For questions:
+
+Shoot me an e-mail. 

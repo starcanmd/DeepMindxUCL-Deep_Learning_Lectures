@@ -1,6 +1,6 @@
 # DeepMind x UCL - Deep Learning Lectures #
 
-<img src="/Logos/DeepMind.png" width='300' height='200'>  <img src="/Logos/UCL.png" width="250" height="200">
+<img src="/Logos/DeepMind.png" width='350' height='200'>  <img src="/Logos/UCL.png" width="250" height="200">
 
 This repository includes my notes of the Deep Learning Lectures of DeepMind and UCL. 
 

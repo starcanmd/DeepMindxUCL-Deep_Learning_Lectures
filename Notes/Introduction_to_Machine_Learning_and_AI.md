@@ -28,19 +28,19 @@ Intelligence measures an agent's ability to achieve goals in a wide range of env
 
 <img src="/Images/Intro_1.png" width=1000 height=300>
 
-Measure of intelligence is a function of pi -a policy-. 
+Measure of intelligence is a function of pi -**a policy**-. 
 
 A policy determines what action to take in a given state.
 
 This measure of intelligence is expressed as sum over all computable environments. This term represents breadth of all the things that an intelligent agent should be able to do.
 
-Check algorithmic information theory.
+Check *algorithmic information theory*.
 
-* Indication of success: * Value achieved (the value that policy pi creates in environment mu)
+**Indication of success:** Value achieved (the value that policy pi creates in environment mu)
 
-* Complexity penalty: * A weighting term. K of mu is the Kolmogorov complexity of the environment mu. If the complexity is low, this term will be great. Therefore, it gives more weight to simpler environments and progressively less weight to more complex ones. Since there are more complex environments than simple ones, it also acts as a normalization.
+**Complexity penalty:** A weighting term. K of mu is the Kolmogorov complexity of the environment mu. If the complexity is low, this term will be great. Therefore, it gives more weight to simpler environments and progressively less weight to more complex ones. Since there are more complex environments than simple ones, it also acts as a normalization.
 
-Policy and value comes from * Reinforcement Learning *
+Policy and value comes from **Reinforcement Learning**
 
 There is an agent that interacts with an environment which poses a task or problem. Agent observes the state of the environment and then take an action and influence its environment. After the action, it receives subsequent observation what has happened as a consequence and it receives a reward. 
 
@@ -48,19 +48,19 @@ The goal of the agent is to learn a policy, pi, to maximize long-term reward.
 
 Why does DeepMind work on games?
 
-* Microcosms of the real world: * Ground for real-world situations.
+* Microcosms of the real world: Ground for real-world situations.
 
-* Stimulate intelligence: * A diverse set of challenges.
+* Stimulate intelligence: A diverse set of challenges.
 
-* Good to test in simulations: * Large scale simulations. Thousands in parallel, faster than real life.
+* Good to test in simulations: Large scale simulations. Thousands in parallel, faster than real life.
 
-* Measure progress and performance: * Comparability against human performance.
+* Measure progress and performance: Comparability against human performance.
 
 In deep reinforcement learning, the policy is parameterised by a neural network whose parameters we are trying to adapt for long-term success.
 
 ### Role of Deep Learning: ###
 
-* Enable end-to-end learning: Put the raw features and learn the desired input-output mapping. Just need the loss, how you measure the success, and the architecture of the neural network. 
+* Enables end-to-end learning: Put the raw features and learn the desired input-output mapping. Just need the loss, how you measure the success, and the architecture of the neural network. 
 
 * We can put our prior knowledge into solution of our problem, making learning easier by less computing power and training data.
 
